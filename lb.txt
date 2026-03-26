@@ -6,9 +6,9 @@
 2=网通服务器|螃蟹复古|传奇归来7000|212.64.27.5|7002|1|493527644.dl999.cn:8020/WClientdat/
 
 [Setup]
-公告地址=http://127.0.0.1
-官方首页=http://127.0.0.1
-客户服务=http://127.0.0.1
+公告地址=https://pangxiechuanqi.github.io/dashu/
+官方首页=https://pangxiechuanqi.github.io/dashu/
+客户服务=https://pangxiechuanqi.github.io/dashu/
 
 刷新速度=360
 ;时间秒，参数不小于30
